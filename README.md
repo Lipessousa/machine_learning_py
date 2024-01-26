@@ -12,4 +12,4 @@
  e o modelo K-nearest neighbors (KNeighborsClassifier)</p>
 
  <p>É um projeto simples, só para estudar e entender como pode-se utilizar ferramentas 
- de machine learning para previsão de dados dentro do p <p/>
+ de machine learning para previsão de dados dentro do python <p/>
